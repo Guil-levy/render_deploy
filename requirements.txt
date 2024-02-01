@@ -1,0 +1,4 @@
+Django==5.0.1
+gunicorn 
+psycopg2
+djangorestframework
